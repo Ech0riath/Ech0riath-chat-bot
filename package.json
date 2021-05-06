@@ -1,0 +1,15 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "Ech0riath Twitch Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ech0riath",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "tmi.js": "^1.8.3"
+  }
+}
